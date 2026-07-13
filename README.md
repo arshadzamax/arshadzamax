@@ -91,10 +91,10 @@ A visual breakdown of the tools and languages I work with to build high-performa
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=arshadzamax&show_icons=true&theme=tokyonight&hide_border=true&title_color=93C5FD&icon_color=3B82F6" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=arshadzamax&show_icons=true&theme=tokyonight&hide_border=true&title_color=93C5FD&icon_color=3B82F6" width="100%" alt="GitHub Stats" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadzamax&layout=compact&theme=tokyonight&hide_border=true&title_color=93C5FD" width="100%" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arshadzamax&layout=compact&theme=tokyonight&hide_border=true&title_color=93C5FD" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
