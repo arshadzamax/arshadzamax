@@ -1,7 +1,7 @@
 # 🌌 Hi, I'm Arshad Zama (`arshadzamax`)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1e293b&height=220&section=header&text=Arshad%20Zama&fontSize=65&fontColor=93C5FD&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&secondaryColor=0f172a&height=220&section=header&text=Arshad%20Zama&fontSize=65&fontColor=93C5FD&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ A visual breakdown of the tools and languages I work with to build high-performa
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khalby786/khalby786/main/assets/line-dec.svg" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3B82F6&height=3" width="60%" />
 </p>
 
 <p align="center">
